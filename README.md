@@ -17,9 +17,9 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 
 ## Experiment:
 
-![ex5ex1](https://github.com/user-attachments/assets/87d557eb-d742-4b8d-83ae-ed53fdbf845f)
+![ex5ex1](https://github.com/user-attachments/assets/0d939ffd-4c16-45df-9aff-485051e85fbe)
 
-![ex5ex2](https://github.com/user-attachments/assets/662e11a8-0f1b-4941-a583-08680a241f9d)
+![ex5ex2](https://github.com/user-attachments/assets/0e59a092-416f-49be-b5aa-6785f5565333)
 
 ## Program
 
